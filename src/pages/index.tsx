@@ -28,7 +28,7 @@ export default function Home({ level, currentExperience, challengesCompleted}: H
       <CountdownProvider>
         <main className={styles.container}>
           <Head>
-            <title>move.it | Início</title>
+            <title>move.it | Inícios</title>
           </Head> 
 
           <ExperienceBar />
